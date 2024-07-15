@@ -72,3 +72,17 @@
     }
 }
 /* brand new end */
+/* quick list start */
+main{
+    max-width: 1440px;
+    margin: 0 auto;
+}
+.teams{
+    align-items: center;
+}
+.teams-image-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+}
+/* quick list end */
